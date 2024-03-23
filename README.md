@@ -9,7 +9,7 @@
 # ===============================
 ## CÔNG NGHỆ SỬ DỤNG CHO ĐỒ ÁN MÔN HỌC LẬP TRÌNH ỨNG DỤNG ANDROID
 * IDE: Android Studio
-* CSDL: Firebase
+* Database: Firebase
 # ===============================
 ## MIÊU TẢ CHỨC NĂNG CỦA ỨNG DỤNG
 * ĐĂNG KÝ
