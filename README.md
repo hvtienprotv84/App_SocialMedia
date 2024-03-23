@@ -1,15 +1,16 @@
 # THÔNG TIN ĐỒ ÁN MÔN HỌC LẬP TRÌNH ỨNG DỤNG ANDROID
 ## THÔNG TIN THÀNH VIÊN
-* Họ và Tên: Huỳnh Vĩnh Tiến
-*            Trần Lưu Đông Triều
-*            Nguyễn Quốc Trung
-*            Nguyễn Diệp Minh Quân
+* Họ và Tên:
+* Huỳnh Vĩnh Tiến
+* Trần Lưu Đông Triều
+* Nguyễn Quốc Trung
+* Nguyễn Diệp Minh Quân
 * Số lượng thành viên: 4
 # ===============================
 ## CÔNG NGHỆ SỬ DỤNG CHO ĐỒ ÁN MÔN HỌC LẬP TRÌNH ỨNG DỤNG ANDROID
 * IDE: Android Studio
 * CSDL: Firebase
-# -------------------------------
+# ===============================
 ## MIÊU TẢ CHỨC NĂNG CỦA ỨNG DỤNG
 * ĐĂNG KÝ / ĐĂNG NHẬP
 * ĐĂNG BÀI VIẾT ( LIKE, COMMENT BÀI VIẾT )
