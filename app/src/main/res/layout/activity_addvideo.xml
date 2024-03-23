@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.AddvideoActivity">
+
+    <TextView
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="Thêm video"
+        android:textColor="@color/purple_200"
+        android:textSize="28sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/add_url"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="URL" />
+        <EditText
+            android:id="@+id/add_nd"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="60dp"
+            android:hint="Nội dung"
+            android:textSize="18sp" />
+
+        <com.google.android.exoplayer2.ui.PlayerView
+            android:id="@+id/video_preview"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_width="300dp"
+            android:layout_height="350dp"/>
+
+        <Button
+            android:id="@+id/btn_pick_video"
+            android:layout_gravity="center"
+            android:text="Chọn video từ máy"
+            android:textSize="18sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/add_them"
+                android:text="Thêm"
+                android:textSize="18sp"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"/>
+            <Button
+                android:id="@+id/add_huy"
+                android:text="Huỷ"
+                android:textSize="18sp"
+                android:layout_marginLeft="20dp"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

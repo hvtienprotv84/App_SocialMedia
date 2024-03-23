@@ -1,0 +1,18 @@
+<!-- Layout for messages received from the matched user -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="start">
+
+    <TextView
+        android:id="@+id/textViewChatMessageReceived"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="8dp"
+        android:textColor="@color/black"
+        android:maxWidth="240dp"
+        android:layout_margin="8dp"
+        android:text="Sample message"/>
+</LinearLayout>

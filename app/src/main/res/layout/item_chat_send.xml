@@ -1,0 +1,18 @@
+<!-- Layout for messages sent by the current user -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="end">
+
+    <TextView
+        android:id="@+id/textViewChatMessageSent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:padding="8dp"
+        android:textColor="@color/white"
+        android:maxWidth="240dp"
+        android:layout_margin="8dp"
+        android:text="Sample message"/>
+</LinearLayout>

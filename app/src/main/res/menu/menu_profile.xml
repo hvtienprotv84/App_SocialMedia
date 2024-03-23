@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Post"
+        android:title="Post"
+        android:icon="@drawable/category">
+    </item>
+    <item android:id="@+id/Watch"
+        android:title="Watch"
+        android:icon="@drawable/img_watch">
+    </item>
+
+</menu>

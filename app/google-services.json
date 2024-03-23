@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116206179545",
+    "project_id": "backup-doanmobile",
+    "storage_bucket": "backup-doanmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116206179545:android:34ce7901d3c21257479ac8",
+        "android_client_info": {
+          "package_name": "com.DoAn_Mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116206179545-2v143ei4uttue7ju8dtfe7l4s7q0fv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2TzMD3AcO4O31kWt1Mr9HxZknWKchPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116206179545-2v143ei4uttue7ju8dtfe7l4s7q0fv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
