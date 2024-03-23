@@ -12,7 +12,8 @@
 * CSDL: Firebase
 # ===============================
 ## MIÊU TẢ CHỨC NĂNG CỦA ỨNG DỤNG
-* ĐĂNG KÝ / ĐĂNG NHẬP
+* ĐĂNG KÝ
+* ĐĂNG NHẬP
 * ĐĂNG BÀI VIẾT ( LIKE, COMMENT BÀI VIẾT )
 * ĐĂNG VIDEO ( tựa như TikTok )
 * SỬA THÔNG TIN CÁ NHÂN
